@@ -1,0 +1,16 @@
+[
+  {
+    "codigo": "292",
+    "nombre": "Teclado redragon",
+    "categoria": "Tecnologia",
+    "precio": 30201.0,
+    "cantidad": 3
+  },
+  {
+    "codigo": "293",
+    "nombre": "Mouse redragon",
+    "categoria": "Tecnologia",
+    "precio": 15000.0,
+    "cantidad": 9
+  }
+]
